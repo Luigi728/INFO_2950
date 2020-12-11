@@ -1,0 +1,39 @@
+﻿Station,Maximum Gust Direction,Maximum Gust Speed (km/h),Maximum Gust Date/Month,Maximum Gust Time,Maximum Hourly Mean Wind Direction,Maximum Hourly Mean Wind Speed (km/h),Maximum Hourly Mean Wind Date/Month,Maximum Hourly Mean Wind Time
+Bluff Head (Stanley),ENE,68,1/9/2019,22:54,E,31,2/9/2019,05:00
+Central Pier,ESE,72,2/9/2019,01:27,E,34,1/9/2019,16:00
+Cheung Chau,E,92,2/9/2019,01:35,E,43,2/9/2019,09:00
+Cheung Chau Beach,-,83,1/9/2019,14:09,-,51,1/9/2019,16:00
+Green Island,ENE,72,2/9/2019,09:38,ENE,51,1/9/2019,16:00
+Hong Kong International Airport,E,58,1/9/2019,14:25,E,34,1/9/2019,15:00
+,,,,,E,34,1/9/2019,16:00
+,,,,,E,34,1/9/2019,17:00
+Kai Tak,E,54,2/9/2019,07:38,E,25,1/9/2019,15:00
+King's Park,E,54,1/9/2019,14:37,E,22,1/9/2019,15:00
+,E,54,2/9/2019,09:56,E,22,1/9/2019,16:00
+Lamma Island,E,70,2/9/2019,07:18,E,30,2/9/2019,09:00
+Lau Fau Shan,ENE,54,2/9/2019,12:17,ENE,25,1/9/2019,17:00
+,ENE,54,2/9/2019,12:18,,,,
+North Point,ENE,65,1/9/2019,15:49,E,36,1/9/2019,20:00
+Peng Chau,E,75,2/9/2019,01:41,E,40,1/9/2019,16:00
+Ping Chau,E,40,2/9/2019,13:23,E,16,2/9/2019,14:00
+Sai Kung,NE,72,2/9/2019,03:05,ENE,34,2/9/2019,12:00
+Sha Chau,ESE,47,1/9/2019,15:12,E,27,1/9/2019,16:00
+Sha Lo Wan,E,56,1/9/2019,14:33,E,27,1/9/2019,16:00
+,E,56,1/9/2019,15:07,,,,
+Sha Tin,NE,56,2/9/2019,08:56,E,19,1/9/2019,16:00
+Shek Kong,ENE,62,2/9/2019,12:06,E,20,2/9/2019,16:00
+Star Ferry (Kowloon),E,59,2/9/2019,07:15,E,27,2/9/2019,08:00
+Ta Kwu Ling,ENE,41,2/9/2019,07:43,ENE,16,1/9/2019,16:00
+Tai Mo Shan,ESE,104,2/9/2019,04:30,ESE,67,2/9/2019,05:00
+Tai Po Kau,ENE,76,2/9/2019,07:45,E,34,1/9/2019,15:00
+Tap Mun East,E,77,2/9/2019,07:52,E,45,1/9/2019,15:00
+,,,,,E,45,1/9/2019,16:00
+Tate's Cairn,-,85,1/9/2019,18:56,-,54,2/9/2019,05:00
+Tseung Kwan O,ENE,52,2/9/2019,05:55,NNE,14,1/9/2019,12:00
+Tsing Yi Shell Oil Depot,SE,51,1/9/2019,14:13,ESE,20,1/9/2019,15:00
+Tuen Mun Government Offices,NNE,38,1/9/2019,12:20,NNE,12,3/9/2019,02:00
+,,,,,NNE,12,3/9/2019,03:00
+Waglan Island,E,96,2/9/2019,04:29,ENE,56,1/9/2019,16:00
+Wetland Park,ENE,41,2/9/2019,08:02,E,13,1/9/2019,16:00
+Wong Chuk Hang,ENE,58,1/9/2019,15:29,ENE,22,1/9/2019,20:00
+,,,,,ENE,22,2/9/2019,11:00
